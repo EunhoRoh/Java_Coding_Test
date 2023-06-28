@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hello-spring.iml" filepath="$PROJECT_DIR$/hello-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Coing-Test.iml" filepath="$PROJECT_DIR$/Java-Coing-Test.iml" />
     </modules>
   </component>
 </project>
