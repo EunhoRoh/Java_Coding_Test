@@ -93,15 +93,30 @@ public class CodeUp100 {
 //    }
 
     //equals 함수는 String이 같은지 보는 메서드
-    public static void main(String[] args){
-    Scanner scanner = new Scanner(System.in);
-    String[] time=scanner.next().split(":");
+//    public static void main(String[] args){
+//    Scanner scanner = new Scanner(System.in);
+//    String[] time=scanner.next().split(":");
+//
+//    if(time[1].equals("00"))
+//        System.out.println("0");
+//    else
+//        System.out.println(time[1]);
+//}
+    //%o는 8진수로 출력한다.
+//    public static void main(String[] args){
+//        Scanner scanner = new Scanner(System.in);
+//        int a=scanner.nextInt();
+//        System.out.printf("%o",a);
+//    }
 
-    if(time[1].equals("00"))
-        System.out.println("0");
-    else
-        System.out.println(time[1]);
-}
+    public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
+        int a;
+        String b = scanner.nextLine();
+        //n진수 -> 10진수로 바꿀 때에는 Integer 클래스의 .valueOf 사용
+        a=Integer.valueOf(b,8);//8진수 b를 int로 바꾸겠다.
+        System.out.println(a);
+    }
 
 
 }
