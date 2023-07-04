@@ -109,13 +109,45 @@ public class CodeUp100 {
 //        System.out.printf("%o",a);
 //    }
 
+//    public static void main(String[] args){
+//        Scanner scanner = new Scanner(System.in);
+//        int a;
+//        String b = scanner.nextLine();
+//        //n진수 -> 10진수로 바꿀 때에는 Integer 클래스의 .valueOf 사용
+//        a=Integer.valueOf(b,8);//8진수 b를 int로 바꾸겠다.
+//        System.out.println(a);
+//    }
+    //ascii 코드 연결
+//    public static void main(String[] args){
+//        Scanner scanner = new Scanner(System.in);
+//        //입력된 문자열에서 첫번째 char 만 가져오기
+//        char a= scanner.nextLine().charAt(0);
+//        int b=(int)a+1; //아스키코드 다음 문자
+//
+//        a=(char)b; // num을 아스키 코드 기반 문자로 변환
+//        System.out.println(a);
+//    }
+    //나머지
+
+//    public static void main(String[] args){
+//        Scanner scanner = new Scanner(System.in);
+//        long a = scanner.nextLong();
+//        long b = scanner.nextLong();
+//
+//        System.out.println(a%b);
+//    }
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
-        int a;
-        String b = scanner.nextLine();
-        //n진수 -> 10진수로 바꿀 때에는 Integer 클래스의 .valueOf 사용
-        a=Integer.valueOf(b,8);//8진수 b를 int로 바꾸겠다.
-        System.out.println(a);
+        long a = scanner.nextLong();
+        long b = scanner.nextLong();
+        long c = scanner.nextLong();
+
+        long num1 = (a+b+c);
+        double num2=(double)num1/3;
+
+        System.out.printf("%d%n%.1f",(a+b+c),num2);
+        System.out.printf(".2f",num2);
+//        System.out.printf("%d\n%.1f",(a+b+c),num2);
     }
 
 
