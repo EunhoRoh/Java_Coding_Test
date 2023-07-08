@@ -1,43 +1,47 @@
 // [백준] 10974. 모든 순열 dfs(Java)
 
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.Arrays;
 
-class BJ_10974 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+public class BJ_10974 {
+    static int N;
+    static int[] src, tgt;
+    static boolean[] select;
 
-        int n = sc.nextInt();
-        sc.close();
-        int[] arr = new int[n];
-        int[] output = new int[n];
-        boolean[] visited = new boolean[n];
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        for(int i=0; i<n; i++)
-            arr[i] = i+1;
+        N = Integer.parseInt(br.readLine());
 
-        perm(arr, output, visited, 0, n, n);
+        tgt = new int[N];
+        src = new int[N];
+        select = new boolean[N];
+
+        for (int i = 0; i < N; i++) {
+            src[i] = i;
+        }
+
+        perm(0);
     }
 
-    // 순서를 지키면서 n 개중에서 r 개를 뽑는 경우
-    static void perm(int[] arr, int[] output, boolean[] visited, int depth, int n, int r) {
-        if(depth == r) {
-            print(output, r);
+    static void perm(int tgtIdx) {
+        if (tgtIdx == N) {
+            for (int i = 0; i < N; i++) {
+                System.out.print((tgt[i] + 1) + " ");
+            }
+            System.out.println();
             return;
         }
 
-        for(int i=0; i<n; i++) {
-            if(visited[i] != true) {
-                visited[i] = true;
-                output[depth] = arr[i];
-                perm(arr, output, visited, depth + 1, n, r);
-                visited[i] = false;;
-            }
-        }
-    }
+        for (int i = 0; i < N; i++) {
+            if (select[i])
+                continue;
 
-    static void print(int[] arr, int r) {
-        for(int i=0; i<r; i++)
-            System.out.print(arr[i] + " ");
-        System.out.println();
+            tgt[tgtIdx] = src[i];
+            select[i] = true;
+            perm(tgtIdx + 1);
+            select[i] = false;
+        }
     }
 }
