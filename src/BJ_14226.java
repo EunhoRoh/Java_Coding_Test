@@ -17,7 +17,8 @@ public class BJ_14226 {
 
         br.close();
     }
-
+    
+    //static 함수 바로 메모리에 올라감
     private static int sendEmoticon(int s) {
         boolean[][] check = new boolean[2000][1001];        // 스크린에 999, 클립보드에 999인 경우 최대
         Queue<Emoticon> queue = new LinkedList<>();
