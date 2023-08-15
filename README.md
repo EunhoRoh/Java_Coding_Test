@@ -16,3 +16,5 @@ Practice Coding Probelms with Java
 
 8/13 한국사 56점 하....
 이게 뭐냐..
+
+8/15 광복절.. 해찬이랑 스타 하루종일 함
