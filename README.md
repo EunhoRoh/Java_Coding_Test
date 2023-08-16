@@ -18,3 +18,5 @@ Practice Coding Probelms with Java
 이게 뭐냐..
 
 8/15 광복절.. 해찬이랑 스타 하루종일 함
+
+8/16 운동 가즈아..! SQLD 공부해보자
