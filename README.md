@@ -25,3 +25,5 @@ Practice Coding Probelms with Java
 
 8/18 허리 자세를 도울 쿠션을 샀다.. 허리가 빨리 나아 공부를 해야 한다.
 정신 똑띠 차리자
+
+8/19 리스닝 조금 함
