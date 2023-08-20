@@ -27,3 +27,5 @@ Practice Coding Probelms with Java
 정신 똑띠 차리자
 
 8/19 리스닝 조금 함
+
+8/20 잠 엄청 잠
