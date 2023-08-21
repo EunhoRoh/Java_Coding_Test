@@ -29,3 +29,5 @@ Practice Coding Probelms with Java
 8/19 리스닝 조금 함
 
 8/20 잠 엄청 잠
+
+8/21 리딩 오답함.. 3시에 일어남 일찍 자자 7시반에 운동가자
