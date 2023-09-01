@@ -52,12 +52,64 @@ public class JAVA_BASIC_GRAMMAR {
         Scanner scanner = new Scanner(System.in);
         //문자열 입력 받아서 보여주기
         System.out.println(scanner.next()); //next 함수를 통해 원하는 값을 받을 수 있따.
+//
+//        String str = scanner.next();
+//        int i = scanner.nextInt();
+//        long l = scanner.nextLong();
 
-        String str = scanner.next();
-        int i = scanner.nextInt();
-        long l = scanner.nextLong();
+//        int i3=6;
+//        if(i3<3){
+//            System.out.println("참");
+//        } else if(i3<5){
+//            System.out.println("거짓");
+//        }
+//        else{
+//            System.out.println("나머지");
+//        }
+//
+//        boolean isMarried= true;
+//        boolean isMan = false;
+//        String str1;
+//        str1=isMarried ? "결혼 했다" : "결혼 안 했다.";
+//
+//        if (!isMarried && isMan){
+//            str1="결혼했다";
+//        } else {
+//            str1 = "결혼 안 했다";
+//        }
+//
+//        System.out.println(str1);
+//        switch (str1){//boolean은 안 들어옴
+//            case "결혼 했다":
+//                System.out.println("O");
+//                break;
+//            case "결혼 안 했다" :
+//                System.out.println("X");
+//                break;
+//            default:
+//                System.out.println("?");
+//        }
+        for(int i=0; i<10; i++){
+            System.out.println(i);
+            if (i==6){
+                break;
+            }
+        }
 
+        int i=0;
+        while(i<10){
+            System.out.println(i);
+            i++;
+        }
 
+        int i1=0;
+        do{
+            System.out.println(i1);
+            i1++;
+        }while (i1<10);
 
     }
+    int[] score;
+    score = new int[5];
+
 }
