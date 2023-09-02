@@ -107,9 +107,13 @@ public class JAVA_BASIC_GRAMMAR {
             System.out.println(i1);
             i1++;
         }while (i1<10);
+        int[] score;
+        score = new int[5];
+        int [] sc = new int[5];
+        int couunt = sc.length;
 
     }
-    int[] score;
-    score = new int[5];
+
+
 
 }
