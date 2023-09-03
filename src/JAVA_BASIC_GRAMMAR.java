@@ -111,6 +111,7 @@ public class JAVA_BASIC_GRAMMAR {
         score = new int[5];
         int [] sc = new int[5];
         int couunt = sc.length;
+        //할수 있다아..
 
     }
 
