@@ -112,6 +112,7 @@ public class JAVA_BASIC_GRAMMAR {
         int [] sc = new int[5];
         int couunt = sc.length;
         //할수 있다아..
+        // 할수있다아! 9/4
 
     }
 
