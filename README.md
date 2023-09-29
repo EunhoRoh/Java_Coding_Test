@@ -63,3 +63,5 @@ Practice Coding Probelms with Java
 9/27 금방이구나.. 시간이 너무 빠르다.. 낼 일찍 일어나서 공부를하자
 
 9/28 추석
+
+9/29 2시간 30분 공부
