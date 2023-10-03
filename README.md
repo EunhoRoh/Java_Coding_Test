@@ -65,3 +65,7 @@ Practice Coding Probelms with Java
 9/28 추석
 
 9/29 2시간 30분 공부
+
+10/1 오늘 공부....
+
+10/2 오늘 공부해야하는데...
