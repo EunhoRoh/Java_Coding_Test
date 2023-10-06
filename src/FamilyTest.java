@@ -1,42 +1,42 @@
-//class Parent{
-//    Parent( ){
-//        System.out.println("Parent 1");
-//    }
-//    Parent(String str){
-//        System.out.println("Parent 2");
-//    }
-//}
-//class Child extends Parent{
-//    Child( ){
-//        System.out.println("Child 1");
-//    }
-//    Child(String str){
-//        System.out.println("Child 2");
-//    }
-//}
-//class FamilyTest{
-//    public static void main(String args[]){
-//        Child c1 = new Child( );
-//        Child c2 = new Child("a");
-//    }
-//}
 class Parent{
-    Parent( ){ }
+    Parent( ){
+        System.out.println("Parent 1");
+    }
+    Parent(String str){
+        System.out.println("Parent 2");
+    }
 }
 class Child extends Parent{
-    Child( ){ }
-    public void init( ){ }
+    Child( ){
+        System.out.println("Child 1");
+    }
+    Child(String str){
+        System.out.println("Child 2");
+    }
 }
 class FamilyTest{
     public static void main(String args[]){
-        Parent p = null;
         Child c1 = new Child( );
-        Child c2 = null;
-        p = c1;
-        p.init( );
-        c2 = p;
+        Child c2 = new Child("a");
     }
 }
+//class Parent{
+//    Parent( ){ }
+//}
+//class Child extends Parent{
+//    Child( ){ }
+//    public void init( ){ }
+//}
+//class FamilyTest{
+//    public static void main(String args[]){
+//        Parent p = null;
+//        Child c1 = new Child( );
+//        Child c2 = null;
+//        p = c1;
+//        p.init( );
+//        c2 = p;
+//    }
+//}
 //할수 있다 제발 열심히 살자
 // 정재희 유혹, 인스타를 들어가지 말자
 // 파이팅!!
@@ -49,3 +49,4 @@ class FamilyTest{
 // 힘내자 은호야 힘내 집중해!
 // 난 할수있다. 은호는 할수있다! 최선을 다하자!
 // 할수 있을까...
+//조금만 더 열심히 하자!
