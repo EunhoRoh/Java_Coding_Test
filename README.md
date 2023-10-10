@@ -71,3 +71,5 @@ Practice Coding Probelms with Java
 10/2 오늘 공부해야하는데...
 
 10/5 공부..
+
+10/10 공부와 운동을 5일째 쉬고 있다.. 뭐하는 짓이지
