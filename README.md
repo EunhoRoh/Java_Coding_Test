@@ -79,3 +79,5 @@ Practice Coding Probelms with Java
 10/13 해야한다
 
 10/14 진짜 뭐하냐 병신아
+
+10/16 공부하자 은호야
