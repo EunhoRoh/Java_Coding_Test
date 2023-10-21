@@ -19,3 +19,6 @@ Practice Coding Probelms with Java
 10/19 마지막까지 힘내라
 
 10/21 밤새자
+
+에효... 진짜... 할말이 없다
+나의 루틴을 만들어야해
