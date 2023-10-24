@@ -24,3 +24,4 @@ Practice Coding Probelms with Java
 나의 루틴을 만들어야해
 지원하라
 g
+오늘은 일찍 자자
