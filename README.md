@@ -23,7 +23,5 @@ Practice Coding Probelms with Java
 에효... 진짜... 할말이 없다
 나의 루틴을 만들어야해
 지원하라
-g
-오늘은 일찍 자자
 
-일찍자
+오늘은 일찍 자자
