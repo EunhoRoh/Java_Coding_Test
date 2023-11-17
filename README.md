@@ -29,4 +29,4 @@ Practice Coding Probelms with Java
 
 파이팅하자!!
 
-후후.. 정신 차려라
+하자!
