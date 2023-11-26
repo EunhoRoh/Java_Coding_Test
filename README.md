@@ -8,8 +8,6 @@ Practice Coding Probelms with Java
 
 10/13 해야한다
 
-하.. 이런.. 이래도 되는거냐
-
 10/14 진짜 뭐하냐 
 
 10/16 공부하자 은호야
