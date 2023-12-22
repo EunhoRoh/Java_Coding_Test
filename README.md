@@ -28,3 +28,5 @@ Practice Coding Probelms with Java
 
 집에서도 공부해라
 쓰읍.. 쉽지 않네..
+
+핸드폰, 아이패드 좀 그만해
