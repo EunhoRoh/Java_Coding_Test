@@ -32,3 +32,5 @@ Practice Coding Probelms with Java
 핸드폰, 아이패드 좀 그만해
 
 다시 일어나자
+
+새해다. 다시 힘내보자!
