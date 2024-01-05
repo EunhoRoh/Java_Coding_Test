@@ -34,5 +34,3 @@ Practice Coding Probelms with Java
 다시 일어나자
 
 새해다. 다시 힘내보자!
-
-힘들닼 당연
