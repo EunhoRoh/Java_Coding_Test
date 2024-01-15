@@ -18,7 +18,7 @@ Practice Coding Probelms with Java
 포기하지 말자
 
 끝까지 하자!!
-아침 운동하기!
+아침 운동하기
 
 오픽 보느라 고생했다
 이제 오픽 그만..
