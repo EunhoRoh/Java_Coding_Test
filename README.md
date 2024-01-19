@@ -24,7 +24,6 @@ Practice Coding Probelms with Java
 이제 오픽 그만..
 토익 2주 준비하고 보고 영어는 그만하자
 휴식때 쉬는 방법은 찾자
-토익 신청
 
 회복탄력성
 
