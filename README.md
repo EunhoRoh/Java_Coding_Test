@@ -20,7 +20,6 @@ Practice Coding Probelms with Java
 끝까지 하자!!
 아침 운동하기
 
-오픽 보느라 고생했다
 토익 2주 준비하고 보고 영어는 그만하자
 휴식때 쉬는 방법은 찾자
 
