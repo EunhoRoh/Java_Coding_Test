@@ -14,7 +14,7 @@ Practice Coding Probelms with Java
 
 10/19 마지막까지 힘내라
 
-나의 루틴을 만들어야해
+나의 루틴을 만들
 포기하지 말자
 
 끝까지 하자!!
