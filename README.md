@@ -21,7 +21,7 @@ Practice Coding Probelms with Java
 
 토익 2주 준비하고 보고 영어는 그만하자
 휴식때 쉬는 방법은 찾자
-아이패드 잠그기!,
+아이패드 잠그기!!
 
 회복탄력성
 
