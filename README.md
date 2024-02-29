@@ -16,7 +16,7 @@ Practice Coding Probelms with Java
 나의 루틴을 만들자
 포기하지 말자
 
-끝까지 하자!
+끝까지 하자!!
 아침 운동하기
 
 토익 2주 준비하고 보고 영어는 그만하자
