@@ -2,7 +2,7 @@
 Practice Coding Probelms with Java
 
 산은 가즈아!
-하루 8시간 공부
+하루 8시간 공부!
 
 10/12 지원할게 투성이다.. 루틴을 다시 잡자 나쁜일 좋은일 할일!
 
