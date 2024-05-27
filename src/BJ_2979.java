@@ -28,11 +28,6 @@ public class BJ_2979 {
 
         }
 
-
-        //System.out.println(a+b);
-        ArrayList<Integer> f = new ArrayList<>();
-        ArrayList<Integer> s = new ArrayList<>();
-        ArrayList<Integer> t = new ArrayList<>();
     }
 
 }

@@ -1,4 +1,6 @@
 import java.awt.*;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -123,6 +125,24 @@ public class JAVA_BASIC_GRAMMAR {
         // 자소서 다 쓸수 있냐.. 해보자..
 
         // 9월 15일 내일이 한국은행 시험이구나.. ㅋㅋㅋ 잘해보자 하나님 마지막까지 최선을 다할수있도록 도와주세요!
+
+        List<Integer> list_i = new ArrayList<>();
+        for (i=0; i<10; i++){
+            list_i.add(i);
+        }
+
+        for (Integer a:list_i
+             ) {
+
+
+        }
+
+        String[] aaa={};
+        String [] bbb = {"",""};
+        bbb = aaa;//-> 주소값 매핑
+
+        //static은 메모리에 바로 올라간다?
+
 
 
     }
