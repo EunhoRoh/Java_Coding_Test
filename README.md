@@ -1,2 +1,2 @@
-# Java_Coding_Test
-Practice Coding Probelms with Java
+# Python + Java_Coding_Test
+Practice Coding Probelms with Python or Java
